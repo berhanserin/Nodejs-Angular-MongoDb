@@ -1,4 +1,4 @@
-class response {
+class response{
   constructor(data = null, errors = null) {
     this.error = errors;
     this.data = data;
